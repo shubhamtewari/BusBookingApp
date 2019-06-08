@@ -13,3 +13,6 @@
 .externalNativeBuild
 app/test.json
 /app/testwithbackslash.json
+app/google-services.json
+/app/google-services.json
+
