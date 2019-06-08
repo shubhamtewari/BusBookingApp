@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BusBookingApp</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="bmt">bmt</string>
+    <string name="add_bus">Add Bus</string>
+    <string name="add_booking">Add Booking</string>
+    <string name="sign_in">User</string>
+    <string name="admin">Admin</string>
+    <string name="todo">TODO</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="user">User</string>
+</resources>
