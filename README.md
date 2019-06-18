@@ -1,8 +1,8 @@
 ## BusBookingApp
-#### An Android application for a collge level Bus Booking Startup/Transport Network Company.
+#### An Android Application for a college level Bus Booking Startup/Transport Network Company.
 #### *In Development
 
->Will be used by a college of 2000 students as a one stop place to view availability of buses, book buses and manage the tickets.
+>Will be used by a college of 2000 students as a one-stop place to *view availability* of buses, *book* buses and *manage* the tickets.
 >App will be administered by a team of 4 students.
 
 **Features Added:**
